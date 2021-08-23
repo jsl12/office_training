@@ -1,6 +1,7 @@
 # Installs
 ## Python
 <a href="https://www.python.org/downloads/windows/">Download</a> and install <a href="https://www.python.org/about/">`Python`</a> itself. Be sure to check the box for "Add to PATH variable"<br>
+<a href="https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe">Pyhon 3.9.6 for Windows 64-bit</a>
 
 ## git
 <a href="https://git-scm.com/downloads">Download</a> and install <a href="https://git-scm.com/">`git`</a><br>
@@ -37,9 +38,12 @@
 - <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository">Git Basics - Getting a Git Repository</a>, 
 see <i>Cloning an Existing Repository</i>
 
-
 ## Install Packages
 Install all the packages using a single command: `pip install .\office_training\requirements.txt`. `pip` installs packages (pre-written Python code) by downloading them from <a href="https://pypi.org/">PyPI</a>, the Python Package Index
 
 #### References
 - <a href="https://pip.pypa.io/en/stable/getting-started/#install-multiple-packages-using-a-requirements-file">Install multiple packages using a requirements file</a>
+
+## Start <a href="https://jupyter.org/about">Jupyter Lab</a>
+Start Jupyter Lab with the command `jupyter lab`. Jupyter Lab will then open in a browser window<br>
+<a href="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo">Try out Jupyter Lab</a>
